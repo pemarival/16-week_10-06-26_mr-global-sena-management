@@ -6,7 +6,7 @@ https://app.diagrams.net/#G1C8BpEeTN-i8skcqpSMFzcjGZ85qTmOpN#%7B%22pageId%22%3A%
 
 ## Dependencias de nuestro modulo con los otros modulos
 
-
+dependencias.jpg
 
 ## Link modulo grupal, completo de sena management 
 
