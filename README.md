@@ -10,5 +10,5 @@ https://app.diagrams.net/#G1C8BpEeTN-i8skcqpSMFzcjGZ85qTmOpN#%7B%22pageId%22%3A%
 
 ## Link modulo grupal, completo de sena management 
 
-
+https://app.diagrams.net/#G1qv7NKeOTKBHTuOzFZXSDfWaC07WkjMod#%7B"pageId"%3A"eL0nmg8K8gCNa2GGs1XE"%7D
 
